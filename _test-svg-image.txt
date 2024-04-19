@@ -1,0 +1,9 @@
+@startuml
+
+sprite $svgImg transparent_square.svg
+
+rectangle "<$svgImg>"
+
+a123 -> b123
+
+@enduml

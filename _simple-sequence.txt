@@ -1,0 +1,5 @@
+@startuml
+
+a123 -> b123
+
+@enduml

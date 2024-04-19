@@ -1,0 +1,9 @@
+@startuml
+
+sprite $svgImg osi.svg
+
+rectangle "<$svgImg>"
+
+a123 -> b123
+
+@enduml

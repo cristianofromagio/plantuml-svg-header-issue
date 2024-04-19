@@ -1,0 +1,7 @@
+@startuml
+
+rectangle "<img:https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/osi.svg>"
+
+a123 -> b123
+
+@enduml
